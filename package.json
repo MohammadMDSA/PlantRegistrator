@@ -1,0 +1,39 @@
+{
+  "name": "plantregistrator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammadMDSA/PlantRegistrator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohammadMDSA/PlantRegistrator/issues"
+  },
+  "homepage": "https://github.com/MohammadMDSA/PlantRegistrator#readme",
+  "dependencies": {
+    "@bakjs/auth": "^3.0.3",
+    "@bakjs/mongo": "^2.0.4",
+    "@nuxtjs/auth": "^3.4.1",
+    "@nuxtjs/axios": "^4.5.2",
+    "@nuxtjs/proxy": "^1.1.3",
+    "@nuxtjs/pwa": "^2.0.5",
+    "bak": "^3.0.5",
+    "bootstrap": "^4.0.0",
+    "bootstrap-vue": "^2.0.0-rc.1",
+    "cross-env": "^5.1.3",
+    "crossenv": "^0.0.2-security",
+    "js-cookies": "^1.0.4",
+    "lodash": "^4.17.4",
+    "nodemon": "^1.14.10",
+    "nuxt": "1.1.1",
+    "vue": "^2.5.13",
+    "vuex": "^3.0.1",
+    "whatwg-fetch": "^2.0.3"
+  }
+}
